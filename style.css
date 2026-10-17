@@ -91,9 +91,8 @@ footer {
         margin: 15px;
         padding: 20px;
     }
-}
 
-.project-container {
+    .project-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 20px;
